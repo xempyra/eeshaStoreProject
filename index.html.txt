@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EeshaStore</title>
+</head>
+<body>
+    <h1>Welcome to EeshaStore Cakes!</h1>
+    <p>Need help? Chat with our assistant below.</p>
+    <div id="chatbot"></div>
+    <script>
+        // Code to embed your Watson Assistant chatbot will go here later
+    </script>
+</body>
+</html>
